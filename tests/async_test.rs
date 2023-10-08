@@ -8,7 +8,6 @@ async fn some_other_async_fn() -> bool {
     false
 }
 
-
 #[async_test]
 async fn test_async() {
     assert!(some_async_fn().await);

@@ -22,5 +22,3 @@ pub fn async_test(_attr: TokenStream, item: TokenStream) -> TokenStream {
 
     TokenStream::from(output)
 }
-
-
