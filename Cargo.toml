@@ -7,7 +7,7 @@ edition = "2021"
 repository = "https://github.com/0xa10/lite-async-test"
 license-file = "LICENSE"
 keywords = ["async", "test", "futures-lite", "no-std", "embedded"]
-categories = ["no-std", "embedded", "testing"]
+categories = ["asynchronous", "embedded", "development-tools::testing"]
 readme = "README.md"
 
 
