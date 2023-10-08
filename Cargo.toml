@@ -1,8 +1,15 @@
 [package]
 name = "lite-async-test"
+description = "An #![async_test] wrapper using futures-lite, for easily setting up async tests in your crates/binaries."
 version = "0.1.0"
 authors = ["0xa10", "botanica-consulting"]
 edition = "2021"
+repository = "https://github.com/0xa10/lite-async-test"
+license-file = "LICENSE"
+keywords = ["async", "test", "futures-lite", "no-std", "embedded"]
+categories = ["no-std", "embedded", "testing"]
+readme = "README.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
