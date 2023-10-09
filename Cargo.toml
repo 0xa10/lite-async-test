@@ -1,10 +1,10 @@
 [package]
 name = "lite-async-test"
 description = "An #![async_test] wrapper using futures-lite, for easily setting up async tests in your crates/binaries."
-version = "0.1.1"
+version = "0.1.2"
 authors = ["0xa10", "botanica-consulting"]
 edition = "2021"
-repository = "https://github.com/0xa10/lite-async-test"
+repository = "https://github.com/botanica-consulting/lite-async-test"
 license-file = "LICENSE"
 keywords = ["async", "test", "futures-lite", "no-std", "embedded"]
 categories = ["asynchronous", "embedded", "development-tools::testing"]
